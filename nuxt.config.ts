@@ -10,7 +10,7 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'Glide.ai',
+      title: 'OneKey - SSO',
       htmlAttrs: {
         lang: 'en',
       },

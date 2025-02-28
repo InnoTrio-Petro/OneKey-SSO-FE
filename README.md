@@ -1,26 +1,3 @@
-[![Glide.ai YouTube Thumbnail](https://images.prismic.io/2501-glide-ai/Z6x9E5bqstJ9-hIX_glideai-course.png?auto=format,compress)][course-youtube]
-
-# Glide.ai - Dark, modern, website template
-
-- [Live demo][live-demo]
-- [Play on Stackblitz][stackblitz-demo]
-- [Learn how to build this website on YouTube][course-youtube]
-- Documentations: [Nuxt](https://nuxt.com), [Prismic](https://prismic.io/docs/nuxt-3-setup), [Tailwind CSS](https://tailwindcss.com/docs/styling-with-utility-classes), [GSAP](https://gsap.com/docs/v3)
-
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)][nuxthub-deploy]
-
-## Quick Start
-
-```bash [Terminal]
-npx nuxi@latest init -t github:prismicio-community/nuxt-starter-prismic-glideai#HEAD glideai
-```
-
-To get your own Prismic repository instance and start managing your own content, also run:
-```bash [Terminal]
-cd glideai
-npx @slicemachine/init@latest
-```
-
 ## Setup
 
 Make sure to install the dependencies:
