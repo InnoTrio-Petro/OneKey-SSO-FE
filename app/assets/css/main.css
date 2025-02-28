@@ -1,0 +1,25 @@
+html {
+  color-scheme: dark;
+}
+
+body {
+  @apply grid bg-gray-950 bg-repeat text-gray-50;
+  font-family: 'DM Sans', sans-serif;
+  background-image: url('/assets/noise-texture.svg');
+}
+
+.buttonLink {
+  @apply relative inline-flex h-fit w-fit rounded-full px-4 py-2;
+  @apply border border-sky-100/20 bg-sky-200/10 text-sky-200 outline-none ring-teal-300;
+  @apply after:absolute after:inset-0 after:-z-10 after:animate-pulse after:rounded-full after:bg-teal-100 after:bg-opacity-0 after:blur-md;
+  @apply transition-colors hover:border-teal-200/40 hover:text-teal-300 after:transition-all after:duration-500 after:hover:bg-opacity-15 focus:ring-2;
+}
+
+.glass-container {
+  position: relative;
+}
+
+.glass-container::before {
+  @apply absolute -inset-[10px] -z-10 rounded-xl border border-gray-100/20 bg-gray-200/10 backdrop-blur-md;
+  content: '';
+}

@@ -1,0 +1,186 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading2",
+						"content": {
+							"text": "The new Glide Standard.",
+							"spans": [
+								{
+									"type": "em",
+									"start": 8,
+									"end": 22
+								}
+							]
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Nostrud tempor commodo id ullamco culpa reprehenderit fugiat. Pariatur ut anim dolore magna adipisicing. Irure consectetur dolor ullamco reprehenderit mollit irure eu ullamco duis duis Lorem ut qui."
+						}
+					}
+				]
+			},
+			"bento": {
+				"__TYPE__": "GroupContentType",
+				"value": [
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Design Principles",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"body",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Our features power your next big design, whether it’s a website or an app, Glisten is your friend.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1516849677043-ef67c9557e16?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw5fHxyb2NrZXR8ZW58MHx8fHwxNzM2MjQyMDg0fDA&ixlib=rb-4.0.3&q=85",
+									"alt": "space shuttle during nighttime",
+									"origin": {
+										"id": "9dF7pCyaM9s",
+										"url": "https://images.unsplash.com/photo-1516849677043-ef67c9557e16?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw5fHxyb2NrZXR8ZW58MHx8fHwxNzM2MjQyMDg0fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 3000,
+									"height": 2000,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							],
+							[
+								"is_wide",
+								{
+									"__TYPE__": "BooleanContent",
+									"value": true
+								}
+							]
+						]
+					},
+					{
+						"__TYPE__": "GroupItemContent",
+						"value": [
+							[
+								"is_wide",
+								{
+									"__TYPE__": "BooleanContent",
+									"value": true
+								}
+							],
+							[
+								"title",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "heading3",
+											"content": {
+												"text": "Benchmark with AI",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"body",
+								{
+									"__TYPE__": "StructuredTextContent",
+									"value": [
+										{
+											"type": "paragraph",
+											"content": {
+												"text": "Never worry about pixel perfection again, thanks to our patented AI critic, telling you when something is misaligned.",
+												"spans": []
+											},
+											"direction": "ltr"
+										}
+									]
+								}
+							],
+							[
+								"image",
+								{
+									"provider": "imgix",
+									"url": "https://images.unsplash.com/photo-1517976547714-720226b864c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw2fHxyb2NrZXR8ZW58MHx8fHwxNzM2MjQyMDg0fDA&ixlib=rb-4.0.3&q=85",
+									"alt": "twom white flying rockets during daytime",
+									"origin": {
+										"id": "MEW1f-yu2KI",
+										"url": "https://images.unsplash.com/photo-1517976547714-720226b864c1?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHw2fHxyb2NrZXR8ZW58MHx8fHwxNzM2MjQyMDg0fDA&ixlib=rb-4.0.3&q=85",
+										"width": 3000,
+										"height": 2000
+									},
+									"width": 3000,
+									"height": 2000,
+									"edit": {
+										"background": "transparent",
+										"zoom": 1,
+										"crop": {
+											"x": 0,
+											"y": 0
+										}
+									},
+									"credits": null,
+									"__TYPE__": "ImageContent",
+									"thumbnails": {}
+								}
+							]
+						]
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]

@@ -1,0 +1,74 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Effortless motion, built with precision",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "The AI features you need to transport your business from the little leagues to the big time.",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			},
+			"image": {
+				"provider": "imgix",
+				"url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxyb2NrZXR8ZW58MHx8fHwxNzM2MjQyMDg0fDA&ixlib=rb-4.0.3&q=85",
+				"alt": "rocket ship photography",
+				"origin": {
+					"id": "uj3hvdfQujI",
+					"url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?crop=entropy&cs=srgb&fm=jpg&ixid=M3wzMzc0NjN8MHwxfHNlYXJjaHwzfHxyb2NrZXR8ZW58MHx8fHwxNzM2MjQyMDg0fDA&ixlib=rb-4.0.3&q=85",
+					"width": 3000,
+					"height": 2000
+				},
+				"width": 3000,
+				"height": 2000,
+				"edit": {
+					"background": "transparent",
+					"zoom": 1,
+					"crop": {
+						"x": 0,
+						"y": 0
+					}
+				},
+				"credits": null,
+				"__TYPE__": "ImageContent",
+				"thumbnails": {}
+			},
+			"ctas": {
+				"__TYPE__": "RepeatableContent",
+				"type": "Link",
+				"value": [
+					{
+						"__TYPE__": "LinkContent",
+						"key": "fca88cca-48a6-464b-a9c7-87b0ff4eb6da",
+						"value": {
+							"__TYPE__": "ExternalLink",
+							"url": "https://slicemachine.dev",
+							"text": "doing"
+						}
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
